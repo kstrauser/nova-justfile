@@ -1,0 +1,10 @@
+{
+    "identifier": "net.honeypot.Justfile",
+    "name": "Justfile",
+    "organization": "Honeypot.net",
+    "description": "Syntax highlighting for Justfiles.",
+    "version": "0.1",
+    "categories": ["languages"],
+    "homepage": "https://github.com/kstrauser/nova-justfile",
+    "bugs": "https://github.com/kstrauser/nova-justfile/issues"
+}
